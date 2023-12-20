@@ -1,9 +1,11 @@
 import React from 'react'
+import SiteBtn from '../SiteBtn'
 
 function Header() {
   return (
     <div>
-      Header
+        <div>Header</div>
+        <SiteBtn/>
     </div>
   )
 }
