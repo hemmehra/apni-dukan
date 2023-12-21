@@ -9,6 +9,7 @@ export default function SiteBtn() {
             <Loader2 className="mr-2 h-4 w-4 animate-spin" />
             Please wait
         </Button>
+        <Loader2 className="mr-2 h-4 w-4 animate-spin" />
         <Button>Click Me</Button>
     </>
   )
